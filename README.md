@@ -480,8 +480,8 @@ Aspiring Data Analyst | Python | SQL | Data Visualization | Business Analytics
 
 Connect
 
-- GitHub: "https://github.com/yourusername"
-- LinkedIn: "https://linkedin.com/in/yourusername"
+- GitHub: "https://github.com/tripathianuj-ai"
+- LinkedIn: "https://linkedin.com/in/anuj-tripathi-ai"
 
 ---
 
